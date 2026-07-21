@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hatem-simika-academy",
+  "account_id": "da035f94dd05ea74a90e3ec86e308ad1",
+  "compatibility_date": "2026-06-10",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "src/server.ts",
+}

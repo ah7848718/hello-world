@@ -1,0 +1,296 @@
+
+> dev
+> vite dev
+
+
+  [32m[1mVITE[22m v7.3.5[39m  [2mready in [0m[1m2980[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m8080[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.172:[1m8080[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[vite] connected.
+[2m11:46:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/Hero.tsx[22m
+[2m11:46:12 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Hero.tsx[22m
+[vite] program reload
+[2m11:46:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/_authenticated/dashboard.tsx[22m
+[2m11:46:13 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/_authenticated/dashboard.tsx[22m
+[2m11:46:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/_authenticated/courses.$courseId.tsx[22m
+[2m11:46:14 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/_authenticated/courses.$courseId.tsx[22m
+[2m11:46:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/_authenticated/courses.$courseId.lectures.$lectureId.tsx[22m
+[2m11:46:15 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/_authenticated/courses.$courseId.lectures.$lectureId.tsx[22m
+[2m11:46:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/__root.tsx[22m
+[2m11:46:15 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/__root.tsx[22m
+[2m11:46:15 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/register.tsx[22m
+[2m11:46:15 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/register.tsx[22m
+[2m11:46:17 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/login.tsx[22m
+[2m11:46:17 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/login.tsx[22m
+[2m11:46:17 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/grades.$gradeKey.tsx[22m
+[2m11:46:17 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/grades.$gradeKey.tsx[22m
+[2m11:46:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/Stats.tsx[22m
+[2m11:46:18 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Stats.tsx[22m
+[2m11:46:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m11:46:18 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/api/chatbot.ts[22m
+[2m11:46:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/providers.tsx[22m
+[2m11:46:20 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/providers.tsx[22m
+[vite] program reload
+[2m11:46:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/lib/providers.tsx[22m Could not Fast Refresh ("useApp" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:46:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/components/Footer.tsx, /src/components/Navbar.tsx, /src/components/SupportWidget.tsx, /src/components/Hero.tsx, /src/components/Testimonials.tsx, /src/components/FAQ.tsx, /src/components/Motivation.tsx, /src/components/Features.tsx, /src/components/FeaturedCourses.tsx, /src/components/Stats.tsx, /src/components/AskMrHatem.tsx, /src/components/HomeCourseMonths.tsx[22m
+[2m11:46:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/search.tsx[22m
+[2m11:46:23 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/search.tsx[22m
+[2m11:46:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/_authenticated/books.tsx[22m
+[2m11:46:23 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/_authenticated/books.tsx[22m
+[2m11:46:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/_authenticated/courses.tsx[22m
+[2m11:46:23 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/_authenticated/courses.tsx[22m
+[2m11:46:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/pending.tsx[22m
+[2m11:46:23 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/pending.tsx[22m
+Error: useApp must be used within AppProvider
+    at useApp (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\src\lib\providers.tsx:252:19)
+    at Hero (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\src\components\Hero.tsx:19:23)
+    at Object.react_stack_bottom_frame (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:10288:18)
+    at renderWithHooks (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:5298:19)
+    at renderElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:5733:23)
+    at retryNode (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6664:31)
+    at renderNodeDestructive (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6614:11)
+    at renderNode (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:7152:18)
+    at renderChildrenArray (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6921:11)
+    at retryNode (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6688:13)
+    at renderNodeDestructive (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6614:11)
+    at renderElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:5906:13)
+    at retryNode (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6664:31)
+    at renderNodeDestructive (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6614:11)
+    at finishFunctionComponent (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:5342:13)
+    at renderElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:5788:11)
+    ... collapsed 8 duplicate lines matching above 4 lines 2 times...
+    at renderElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6273:15)
+    at retryNode (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6664:31)
+    at renderNodeDestructive (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6614:11)
+    at renderElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:5906:13)
+    at retryNode (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6664:31)
+    at renderNodeDestructive (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6614:11)
+    at finishFunctionComponent (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:5342:13)
+    at renderElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:5788:11)
+    ... collapsed 14 duplicate lines matching above 7 lines 2 times...
+    at retryNode (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6664:31)
+    at renderNodeDestructive (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6614:11)
+    at renderElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6300:15)
+    at retryNode (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\react-dom\cjs\react-dom-server.node.development.js:6664:31)
+[2m11:46:29 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/Hero.tsx[22m
+[2m11:46:29 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Hero.tsx[22m
+[vite] program reload
+[2m11:46:31 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/__root.tsx[22m
+[2m11:46:31 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/__root.tsx[22m
+[2m11:46:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/Footer.tsx[22m
+[2m11:46:32 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Footer.tsx[22m
+[2m11:46:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct[22m
+[2m11:46:32 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/api/chatbot.ts[22m
+[2m11:46:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/lib/providers.tsx[22m
+[2m11:46:32 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/lib/providers.tsx[22m
+[2m11:46:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/Logo.tsx[22m
+[2m11:46:34 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Logo.tsx[22m
+[2m11:48:20 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/HomeCourseMonths.tsx[22m
+[2m11:48:20 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/HomeCourseMonths.tsx[22m
+[vite] program reload
+[2m11:49:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/HomeCourseMonths.tsx[22m
+[2m11:49:46 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/HomeCourseMonths.tsx[22m
+[vite] program reload
+[2m11:49:53 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts:6:31 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts[39m
+[2m11:49:53 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts:37:30 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts[39m
+[2m11:50:34 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/HomeCourseMonths.tsx[22m
+[2m11:50:34 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/HomeCourseMonths.tsx[22m
+[2m11:50:34 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\src\components\HomeCourseMonths.tsx: Unexpected token, expected "," (359:21)
+
+[0m [90m 357 |[31m                   [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 358 |[31m                 )
+[31m[1m>[22m[31m[90m 359 |[31m                 [33m<[31m[33mdiv[31m className[33m=[31m[32m"space-y-8"[31m[33m>[31m
+ [90m     |[31m                      [31m[1m^[22m[31m
+ [90m 360 |[31m                   {courses [33m===[31m [36mnull[31m [33m?[31m (
+ [90m 361 |[31m                     [33m<[31m[33mdiv[31m className[33m=[31m[32m"grid place-items-center rounded-3xl border border-border bg-background py-20"[31m[33m>[31m
+ [90m 362 |[31m                       [33m<[31m[33mLoader2[31m className[33m=[31m[32m"h-8 w-8 animate-spin text-primary"[31m [33m/[31m[33m>[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/components/HomeCourseMonths.tsx[39m:359:21
+[33m  363 |                      </div>
+  364 |                    ) : monthGroups.length === 0 ? (
+  365 |                      <div className="rounded-3xl border border-border bg-background p-12 text-center text-foreground">
+      |                        ^
+  366 |                        {lang === "ar"
+  367 |                          ? "لا توجد كورسات لهذا الصف بعد."[39m
+      at constructor (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:6616:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:6636:16)
+      at TypeScriptParserMixin.expect (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:6916:12)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11678:14)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11348:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4776:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11098:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11083:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11063:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9854:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10916:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10921:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10898:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10848:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9803:20)
+      at C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10817:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:12443:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10817:17)
+      at TypeScriptParserMixin.parseConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10908:30)
+      at TypeScriptParserMixin.parseConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9620:18)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10902:17)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10848:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9803:20)
+      at TypeScriptParserMixin.parseConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10910:29)
+      at TypeScriptParserMixin.parseConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9620:18)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10902:17)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10848:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9803:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10801:23)
+      at C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10797:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:12443:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10797:17)
+      at TypeScriptParserMixin.jsxParseExpressionContainer (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4644:31)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4723:36)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4710:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4710:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4710:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4710:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4761:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4771:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11098:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11083:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11063:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9854:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10916:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10921:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10898:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10848:21)
+      at C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9792:39
+[2m11:50:34 AM[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\src\components\HomeCourseMonths.tsx: Unexpected token, expected "," (359:21)
+
+[0m [90m 357 |[31m                   [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 358 |[31m                 )
+[31m[1m>[22m[31m[90m 359 |[31m                 [33m<[31m[33mdiv[31m className[33m=[31m[32m"space-y-8"[31m[33m>[31m
+ [90m     |[31m                      [31m[1m^[22m[31m
+ [90m 360 |[31m                   {courses [33m===[31m [36mnull[31m [33m?[31m (
+ [90m 361 |[31m                     [33m<[31m[33mdiv[31m className[33m=[31m[32m"grid place-items-center rounded-3xl border border-border bg-background py-20"[31m[33m>[31m
+ [90m 362 |[31m                       [33m<[31m[33mLoader2[31m className[33m=[31m[32m"h-8 w-8 animate-spin text-primary"[31m [33m/[31m[33m>[31m[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/components/HomeCourseMonths.tsx[39m:359:21
+[33m  363 |                      </div>
+  364 |                    ) : monthGroups.length === 0 ? (
+  365 |                      <div className="rounded-3xl border border-border bg-background p-12 text-center text-foreground">
+      |                        ^
+  366 |                        {lang === "ar"
+  367 |                          ? "لا توجد كورسات لهذا الصف بعد."[39m
+      at constructor (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:6616:19)
+      at TypeScriptParserMixin.unexpected (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:6636:16)
+      at TypeScriptParserMixin.expect (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:6916:12)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11678:14)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11348:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4776:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11098:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11083:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11063:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9854:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10916:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10921:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10898:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10848:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9803:20)
+      at C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10817:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:12443:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10817:17)
+      at TypeScriptParserMixin.parseConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10908:30)
+      at TypeScriptParserMixin.parseConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9620:18)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10902:17)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10848:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9803:20)
+      at TypeScriptParserMixin.parseConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10910:29)
+      at TypeScriptParserMixin.parseConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9620:18)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10902:17)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10848:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9803:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10801:23)
+      at C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10797:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:12443:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10797:17)
+      at TypeScriptParserMixin.jsxParseExpressionContainer (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4644:31)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4723:36)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4710:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4710:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4710:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4710:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4761:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:4771:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11098:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11083:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:11063:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9854:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10916:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10921:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10898:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:10848:21)
+      at C:\Users\dream\Downloads\hatem-simika-academy-4eda02f7-main\hatem-simika-academy-4eda02f7-main\node_modules\@babel\parser\lib\index.js:9792:39
+[2m11:51:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/components/HomeCourseMonths.tsx[22m
+[2m11:51:02 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/HomeCourseMonths.tsx[22m
+[2m11:53:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/login.tsx, /src/routes/login.tsx?tsr-split=component[22m
+[2m11:53:22 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/login.tsx[22m
+[2m11:55:33 AM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts:6:31 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts[39m
+[2m11:55:33 AM[22m [33m[1m[vite][22m[39m [33m[2m(ssr)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts:37:30 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:ssr[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts[39m
+[2m11:55:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m@tanstack/router-core/isServer, @tanstack/router-core/ssr/client, @tanstack/router-core, h3-v2, @tanstack/router-core/ssr/server, seroval, @tanstack/history[32m[39m
+[2m11:55:36 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m11:55:43 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts:6:31 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts[39m
+[2m11:55:43 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts:37:30 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/payments-student.functions.ts[39m
+[2m11:56:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/hooks/useAuth.tsx[22m
+[2m11:56:59 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/hooks/useAuth.tsx[22m
+[vite] program reload
+[2m11:56:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/hooks/useAuth.tsx[22m Could not Fast Refresh ("useAuth" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:56:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/__root.tsx, /src/components/Navbar.tsx, /src/routes/_authenticated.tsx?tsr-split=component, /src/routes/_authenticated/dashboard.tsx?tsr-split=component, /src/components/dashboard/UserWalletSection.tsx, /src/components/dashboard/QuestionBankSection.tsx, /src/components/dashboard/FinanceSection.tsx, /src/components/dashboard/AccountSection.tsx, /src/components/dashboard/LearningSection.tsx[22m
+[2m11:57:04 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/login.tsx, /src/routes/login.tsx?tsr-split=component[22m
+[2m11:57:04 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/login.tsx[22m
+[2m11:57:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/_authenticated/admin.tsx[22m
+[2m11:57:14 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/_authenticated/admin.tsx[22m
+[2m11:57:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css?direct, /src/routes/_authenticated.tsx, /src/routes/_authenticated.tsx?tsr-split=component[22m
+[2m11:57:22 AM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/_authenticated.tsx[22m
+[2m11:58:07 AM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/impersonate.functions.ts:8:35 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/impersonate.functions.ts[39m
+[2m12:02:45 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/admin-payments.functions.ts:17:30 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/admin-payments.functions.ts[39m
+[2m12:38:35 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/support.functions.ts:14:30 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/support.functions.ts[39m
+[2m12:38:35 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/support.functions.ts:40:29 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/support.functions.ts[39m
+[2m12:40:15 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/assistants.functions.ts:13:32 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/assistants.functions.ts[39m
+[2m12:40:15 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/assistants.functions.ts:59:32 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/assistants.functions.ts[39m
+[2m12:40:15 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/assistants.functions.ts:82:32 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/assistants.functions.ts[39m
+[2m12:40:27 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/settings.functions.ts:6:30 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/settings.functions.ts[39m
+[2m12:50:04 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/qna.functions.ts:14:32 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/qna.functions.ts[39m
+[2m12:50:04 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: C:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/qna.functions.ts:49:37 createServerFn().inputValidator() is deprecated. Use createServerFn().validator() instead.[39m
+  Plugin: [35mtanstack-start-core::server-fn:client[39m
+  File: [36mC:/Users/dream/Downloads/hatem-simika-academy-4eda02f7-main/hatem-simika-academy-4eda02f7-main/src/lib/qna.functions.ts[39m
